@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dracula Color Scheme",
+		"ESLint",
+		"JavaScript Enhancements",
+		"JsPrettier",
+		"Package Control",
+		"Quasar Snippets",
+		"Theme - itg.flat",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+	],
+}
